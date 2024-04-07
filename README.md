@@ -2,4 +2,4 @@
 _Lecture Project_
 
 
-Use MLE and MMSE to denoise multi-channel speech signal
+Use MLE and MMSE to denoise multi-channel speech signal.
